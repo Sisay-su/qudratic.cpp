@@ -1,0 +1,1 @@
+# qudratic.cpp
